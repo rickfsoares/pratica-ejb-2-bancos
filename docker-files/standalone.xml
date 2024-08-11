@@ -39,6 +39,7 @@
         <extension module="org.wildfly.extension.security.manager"/>
         <extension module="org.wildfly.extension.undertow"/>
     </extensions>
+   
     <management>
         <audit-log>
             <formatters>
